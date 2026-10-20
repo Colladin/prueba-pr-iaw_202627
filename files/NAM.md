@@ -1,5 +1,5 @@
 ## ¿Quién eres?  
-Me llamo Natalia Arce, soy estudiante de ASIR2.
+_Me llamo Natalia Arce_, soy estudiante de ASIR2.
 ## ¿Qué asignatura te gusta más?  
 Me gusta **SRI.**
 ## ¿Por qué?  

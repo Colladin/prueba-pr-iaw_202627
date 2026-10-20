@@ -16,10 +16,17 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 **¿Quién eres?, ¿qué asignatura te gusta más? y ¿por qué?**
 
 * [LGV](files/LGV.md)
+* [LSF](files/LSF.md)
 * [SJC](files/SJC.md)
 * [NJG](files/NJG.md)
 * [PGH](files/PGH.md)
 * [RCU](files/rmcu.md)
 * [DLQ](files/DLQ.md)
 * [NAM](files/NAM.md)
+* [MGC](files/MGC.md)
+* [ARD](files/ARD.md)
+* [DCG](files/DCG.md)
+* [JMG](files/JMG.md)
+* [DPG](files/DPG.md)
+
 
